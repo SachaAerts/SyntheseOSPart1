@@ -1,0 +1,3 @@
+C:/Helmo/SystemeExploitation/OSPart1/cmake-build-debug/CMakeFiles/OSPart1.dir
+C:/Helmo/SystemeExploitation/OSPart1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Helmo/SystemeExploitation/OSPart1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
